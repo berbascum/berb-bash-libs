@@ -6,3 +6,7 @@
 	path = modules/bbl-general-lib
 	url = https://github.com/berbascum/bbl-general-lib
 	branch = berb-develop
+[submodule "modules/bbl-net-lib"]
+	path = modules/bbl-net-lib
+	url = https://github.com/berbascum/bbl-net-lib
+	branch = berb-develop
