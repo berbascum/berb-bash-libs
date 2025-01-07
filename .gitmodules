@@ -1,0 +1,4 @@
+[submodule "modules/bbl-git-lib"]
+	path = modules/bbl-git-lib
+	url = https://github.com/berbascum/bbl-git-lib
+	branch = berb-develop
