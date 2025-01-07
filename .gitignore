@@ -1,0 +1,12 @@
+debian/.debhelper/
+debian/bbl-general-lib.substvars
+debian/bbl-general-lib/
+debian/bbl-git-lib.substvars
+debian/bbl-git-lib/
+debian/bbl-net-lib.substvars
+debian/bbl-net-lib/
+debian/berb-bash-libs.substvars
+debian/berb-bash-libs/
+debian/debhelper-build-stamp
+debian/files
+out-berb-bash-libs/
