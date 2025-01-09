@@ -10,3 +10,4 @@ debian/berb-bash-libs/
 debian/debhelper-build-stamp
 debian/files
 out-berb-bash-libs/
+commit_msg
