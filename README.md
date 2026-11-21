@@ -1,2 +1,2 @@
-# bbl-general-lib
-Bash lib with general functions to be used by berbascum's scripts
+# berb-bash-libs
+Bash libs collection with shared functions for bash scripts.

@@ -1,0 +1,2 @@
+src/bbl_main.sh usr/lib/berb-bash-libs/
+src/bbl_general_lib_main.sh usr/lib/berb-bash-libs/

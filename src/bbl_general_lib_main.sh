@@ -1,7 +1,10 @@
 #!/bin/env bash
 
-## berb-bash-libs general_lib_main:
+## bbl_general_lib_main
 ## Bash lib with general functions used by Berbascum's scripts.
+#
+# Upstream-Name: berb-bash-libs
+# Source: https://github.com/berbascum/berb-bash-libs
 #
 # Copyright (c) 2024 Berbascum <berbascum@ticv.cat>
 # All rights reserved.
@@ -9,10 +12,7 @@
 #
 # See the LICENSE file in the project root,
 # or in the project repository:
-# https://github.com/berbascum/bbl-general-lib/blob/main/LICENSE
-#
-# Upstream-Name: bbl-general-lib
-# Source: https://github.com/berbascum/bbl-general-lib
+# https://github.com/berbascum/berb-bash-libs/blob/main/LICENSE
 
 
 #[HEADER_SECTION]

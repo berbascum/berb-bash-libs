@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: bbl-general-lib
-Source: https://github.com/berbascum/bbl-general-lib
+Upstream-Name: berb-bash-libs
+Source: https://github.com/berbascum/berb-bash-libs
 
 Files: *
 Copyright: 2024 berbascum <berbascum@ticv.cat>
